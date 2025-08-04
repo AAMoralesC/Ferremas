@@ -1,0 +1,23 @@
+[10-May-2024 17:22:25 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[10-May-2024 17:22:39 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[10-May-2024 17:24:26 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888_carrito'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[10-May-2024 17:24:33 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888_carrito'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[10-May-2024 17:24:51 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888_carrito'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[10-May-2024 17:24:52 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'cto81888_carrito'@'localhost' (using password: YES) in /home/cto81888/public_html/ferremas/dbConnect.php on line 6
+[15-May-2024 18:20:16 America/Santiago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/cto81888/public_html/ferremas/cartAction.php on line 146
+[15-May-2024 18:21:52 America/Santiago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/cto81888/public_html/ferremas/cartAction.php on line 146
+[15-May-2024 18:21:54 America/Santiago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/cto81888/public_html/ferremas/cartAction.php on line 146
+[15-May-2024 18:25:55 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cto81888/public_html/ferremas/cartAction.php:181) in /home/cto81888/public_html/ferremas/cartAction.php on line 224
+[15-May-2024 18:32:26 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cto81888/public_html/ferremas/cartAction.php:187) in /home/cto81888/public_html/ferremas/cartAction.php on line 224
+[15-May-2024 18:41:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cto81888/public_html/ferremas/cartAction.php:216) in /home/cto81888/public_html/ferremas/cartAction.php on line 233
+[15-May-2024 18:42:31 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cto81888/public_html/ferremas/cartAction.php:216) in /home/cto81888/public_html/ferremas/cartAction.php on line 233
+[15-May-2024 18:42:36 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cto81888/public_html/ferremas/cartAction.php:216) in /home/cto81888/public_html/ferremas/cartAction.php on line 233
+[16-May-2024 15:21:46 America/Santiago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cto81888/public_html/ferremas/orderSuccess.php on line 10
+[16-May-2024 16:40:16 America/Santiago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cto81888/public_html/ferremas/orderSuccess.php on line 10
+[16-May-2024 16:40:20 America/Santiago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cto81888/public_html/ferremas/orderSuccess.php on line 10
+[16-May-2024 16:46:58 America/Santiago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cto81888/public_html/ferremas/orderSuccess.php on line 10
+[16-May-2024 16:47:46 America/Santiago] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cto81888/public_html/ferremas/orderSuccess.php on line 10
+[16-May-2024 18:12:20 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function total_items() on null in /home/cto81888/public_html/ferremas/orderSuccess.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/cto81888/public_html/ferremas/orderSuccess.php on line 122
